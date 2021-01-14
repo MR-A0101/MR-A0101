@@ -2,7 +2,7 @@
 
 Hi there, i am a Linux user. 
 
-![MR-A's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![MR-A's github stats](https://github-readme-stats.vercel.app/api?username=MR-A0101&hide=contribs,prs)
 
 
 
