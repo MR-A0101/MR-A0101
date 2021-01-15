@@ -20,9 +20,9 @@ I see the world 🌎 as on one else, I don't accept the old 🧓 I create a new 
 - ⚡ Fun fact: I love to explore new skills and master them 🌌
 <br>
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br>
 
 <br>
+
 
 ### Languages and Tools🛠:
 
@@ -40,6 +40,7 @@ I see the world 🌎 as on one else, I don't accept the old 🧓 I create a new 
 <img align="left" alt="GitHub" width="26px" src="https://github.com/MR-A0101/MR-A0101.github.io/blob/main/images/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br>
 
 ### Connect with me📲:
 
@@ -50,12 +51,11 @@ I see the world 🌎 as on one else, I don't accept the old 🧓 I create a new 
 [<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][A#]
 
 <br>
-<details>
-### <summary>My GitHub Stats📈:</summary>
+
+
+### My GitHub Stats📈:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MR-A0101&show_icons=true&theme=gotham" alt="MR-A0101" />
- </details>
-<br>
 
 
  <br>
