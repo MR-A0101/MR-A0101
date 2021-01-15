@@ -53,10 +53,14 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 
 
-
-
+<br>
+<hr>
+<p align="center">
+Developed with ❤️&🧠 by MR-A
+</p>
 
 [website]: https://mr-a0101.github.io
 [twitter]: https://twitter.com/MRA53262396
 [linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4
 [A#]: http:/197.0.0.1
+[A@]: https://github.com/MR-A0101
