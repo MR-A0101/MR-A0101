@@ -37,13 +37,14 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 <br>
 </br>
+
 ### Connect with me📲:
 
 [<img align="left" alt="MR-A0101.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][]
+[<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][A#]
 [<img align="left" alt="MR-A0101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="MR-A0101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
-[<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][]
+[<img align="left" alt="MR-A0101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][A#]
 
 
 
@@ -54,3 +55,5 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 [website]: https://mr-a0101.github.io
 [twitter]: https://twitter.com/MRA53262396
+[linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4/%22
+[A3]: http:/197.0.0.1
