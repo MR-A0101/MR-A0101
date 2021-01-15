@@ -1,24 +1,23 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [MR-A][website]
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [MR-A][website] 
 
 I see the world🌏 as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<br>
 [![Website](https://img.shields.io/website?label=myself-a.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://myself-a.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MRA53262396?color=%231DA1F2&label=SOCIAL%20%7C%20MR-A&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 [![Discord](https://img.shields.io/discord/786923031041015858?label=DISCORD%20%7C%20TVN&logo=dISCORD&style=for-the-badge)](https://myself-a.com)
-![](https://visitor-badge.glitch.me/badge?page_id=MR-A0101.MR-A0101)
 
 
 
 ## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST !!
- <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="450" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="390" height="330" />
 
 - 🔭 What's New: I just launched my Password Manage for Linux 🔐
 - 🌱 What am I doing: I’m currently learning everything 🤣
-- 🤔 What are my interests: |📚Reading||♟Chess||🌃Space||🎓Learning| 
 - 👯 What I hope: I’m looking to collaborate with other programmers 👨‍💻
-- 🥅 2021 Goals: Contribute more to Open Source projects and upgrade my skills 🤹‍
-- ⚡ Fun fact: My interest drives me to the level of becoming a polymath 🌌
-
+- 🥅 2021 Goals: Contribute more to Open Source projects 🤹‍
+- ⚡ Fun fact: I love to explore new skills and master them 🌌
 <br>
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
@@ -60,4 +59,4 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 [website]: https://mr-a0101.github.io
 [twitter]: https://twitter.com/MRA53262396
 [linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4/%22
-[A3]: http:/197.0.0.1
+[A#]: http:/197.0.0.1
