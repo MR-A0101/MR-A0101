@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm [MR-A][website]
 
-I see the world🌏 as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love playing with Tensorflow, PyTorch, and OpenCV. 
+I see the world🌏 as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
 
 [![Website](https://img.shields.io/website?label=myself-a.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://myself-a.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MRA53262396?color=%231DA1F2&label=SOCIAL%20%7C%20MR-A&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -10,11 +10,14 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 ## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST !!
 
-- 🔭 I just launched my first Password Manage for Linux users🔐
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other web-developers 
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: My interest drives me to the level of becoming a polymath. 
+- 🔭 What's New: I just launched my first Password Manage for Linux users 🔐
+- 🌱 What am I learning: I’m currently learning everything 🤣
+- 🤔 What are my interests: |📚Reading| |♟Chess| |⚽Football| |🌃Space| |🎓Learning| 
+- 👯 What I hope: I’m looking to collaborate with other developers & programmers 👨‍💻
+- 🥅 Goals for 2021: Contribute more to Open Source projects and upgrade my skills 🤹‍♀️
+- ⚡ Fun fact: My interest drives me to the level of becoming a polymath 🌌
+
+<br>
 
 ### Languages and Tools 🛠:
 
