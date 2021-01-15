@@ -6,7 +6,7 @@ I see the world 🌎 as on one else, I don't accept the old 🧓 I create a new 
 <br>
 [![Website](https://img.shields.io/website?label=myself-a.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://myself-a.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MRA53262396?color=%231DA1F2&label=SOCIAL%20%7C%20MR-A&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-[![Discord](https://img.shields.io/discord/786923031041015858?label=DISCORD%20%7C%20TVN&logo=dISCORD&style=for-the-badge)](https://myself-a.com)
+[![Discord](https://img.shields.io/discord/786923031041015858?label=DISCORD%20%7C%20TVN&logo=dISCORD&style=for-the-badge)](https://discord.gg/UKqNnjrv5u)
 
 
 
