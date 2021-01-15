@@ -13,10 +13,10 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 ## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST !!
  <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="460" height="320" />
 
-- 🔭 What's New: I just launched my Password Manage for Linux 🔐
-- 🌱 What am I doing: I’m currently learning everything 🤣
+- 🔭 What's New: I just launched my new Password Manage for Linux users 🔐
+- 🌱 What am I doing: I’m currently learning everything in the traverse 🤣
 - 👯 What I hope: I’m looking to collaborate with other programmers 👨‍💻
-- 🥅 2021 Goals: Contribute more to Open Source projects 🤹‍
+- 🥅 2021 Goals: Contribute more to Open Source Projects and upgrade my skills 🤹‍
 - ⚡ Fun fact: I love to explore new skills and master them 🌌
 <br>
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
