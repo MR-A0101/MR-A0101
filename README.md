@@ -1,6 +1,6 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm [MR-A][website] 
 
-I see the world <img src="https://emoji.gg/assets/emoji/5790_earthblurple2.gif" width="25px"> as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
+I see the world 🌎 as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MR-A0101.MR-A0101)
 <br>
@@ -22,7 +22,9 @@ I see the world <img src="https://emoji.gg/assets/emoji/5790_earthblurple2.gif" 
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 
-### Languages and Tools 🛠:
+<br>
+
+### Languages and Tools🛠:
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="19.5px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
@@ -38,8 +40,6 @@ I see the world <img src="https://emoji.gg/assets/emoji/5790_earthblurple2.gif" 
 <img align="left" alt="GitHub" width="26px" src="https://github.com/MR-A0101/MR-A0101.github.io/blob/main/images/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
-</br>
 
 ### Connect with me📲:
 
@@ -49,11 +49,17 @@ I see the world <img src="https://emoji.gg/assets/emoji/5790_earthblurple2.gif" 
 [<img align="left" alt="MR-A0101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][A#]
 
-
-
-
-
 <br>
+<details>
+### <summary>My GitHub Stats📈:</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MR-A0101&show_icons=true&theme=gotham" alt="MR-A0101" />
+ </details>
+<br>
+
+
+ <br>
+
 <hr>
 <p align="center">
 Developed with ❤️&🧠 by MR-A
