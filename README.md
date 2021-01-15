@@ -1,6 +1,6 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [MR-A][website] 
 
-I see the world🌏 as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
+I see the world <img src="https://emoji.gg/assets/emoji/5790_earthblurple2.gif" width="25px"> as on one else, I don't accept the old 🧓 I create a new 🤖 and as a innovator I need to think of something new. I have a vast range of interest including Cryptorgraphy, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MR-A0101.MR-A0101)
 <br>
