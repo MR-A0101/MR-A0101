@@ -11,7 +11,7 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 
 ## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST !!
- <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="460" height="320" />
 
 - 🔭 What's New: I just launched my Password Manage for Linux 🔐
 - 🌱 What am I doing: I’m currently learning everything 🤣
@@ -58,5 +58,5 @@ I see the world🌏 as on one else, I don't accept the old 🧓 I create a new �
 
 [website]: https://mr-a0101.github.io
 [twitter]: https://twitter.com/MRA53262396
-[linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4/%22
+[linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4
 [A#]: http:/197.0.0.1
