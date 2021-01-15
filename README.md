@@ -13,7 +13,7 @@ I see the world as on one else, I don't accept the old I create a new and as a i
 - 🔭 I just launched my first Password Manage for Linux users
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web-developers 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 202 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My interest drives me to the level of becoming a polymath. 
 
 ### Language and Tools:
