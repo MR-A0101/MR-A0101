@@ -24,7 +24,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 <br>
 
 
-### Languages and Tools🛠:
+### Languages and Tools 🛠:
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="19.5px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
@@ -42,7 +42,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 <br>
 
-### Connect with me📲:
+### Connect with me 📲:
 
 [<img align="left" alt="MR-A0101.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][A#]
@@ -53,7 +53,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 <br>
 
 
-### My GitHub Stats📈:
+### My GitHub Stats 📈:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MR-A0101&show_icons=true&theme=gotham" alt="MR-A0101" />
 
