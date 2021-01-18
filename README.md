@@ -19,7 +19,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 - 🥅 2021 Goals: Contribute more to Open Source Projects and upgrade my skills 🤹‍
 - ⚡ Fun fact: I am an insomniac, so i sleep only 3-4hrs in one earthly-rotation 🌌
 <br>
-<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://calendly.com/mr-a0101" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
 
@@ -70,4 +70,4 @@ Developed with ❤️&🧠 by MR-A
 [linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4
 [A#]: http:/197.0.0.1
 [A@]: https://github.com/MR-A0101
-[buy]: https://calendly.com/mr-a0101
+
