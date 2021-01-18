@@ -19,7 +19,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 - 🥅 2021 Goals: Contribute more to Open Source Projects and upgrade my skills 🤹‍
 - ⚡ Fun fact: I am an insomniac, so i sleep only 3-4hrs in one earthly-rotation 🌌
 <br>
-[<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>][buy]
+<a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
 
