@@ -17,7 +17,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 - 🌱 What am I doing: I’m currently learning everything in the traverse 🤣
 - 👯 What I hope: I’m looking to collaborate with other programmers 👨‍💻
 - 🥅 2021 Goals: Contribute more to Open Source Projects and upgrade my skills 🤹‍
-- ⚡ Fun fact: I love to explore new skills and master them 🌌
+- ⚡ Fun fact: I am an insomniac, so i sleep only 3-4hrs in one earthly-rotation 🌌
 <br>
 <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
