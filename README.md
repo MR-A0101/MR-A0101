@@ -27,7 +27,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 ### Languages and Tools 🛠:
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="HTML5" width="19.5px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />
+<img align="left" alt="HTML5" width="19.5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
 <img align="left" alt="JavaScript" width="19px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
