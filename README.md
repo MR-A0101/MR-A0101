@@ -10,7 +10,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 
 
-## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST !!
+## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST 
  <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="460" height="320" />
 
 - 🔭 What's New: I just launched my new Password Manage for Linux users 🔐
