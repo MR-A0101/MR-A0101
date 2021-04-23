@@ -68,7 +68,7 @@ Developed with ❤️&🧠 by MR-A
 
 [website]: https://mr-a0101.github.io
 [twitter]: https://twitter.com/MRA53262396
-[linkedin]: https://www.linkedin.com/in/harsh-sinha-0273191b4
+[linkedin]: https://www.linkedin.com/in/MR-A
 [A#]: http:/197.0.0.1
 [A@]: https://github.com/MR-A0101
 
