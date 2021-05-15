@@ -39,7 +39,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 <img align="left" alt="Ruby" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="MySQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" />
-<img align="left" alt="Replit" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />
+<img align="left" alt="Replit" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />
 <img align="left" alt="Parrot Sec OS" width="25" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/MR-A0101/MR-A0101.github.io/blob/main/images/github.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
