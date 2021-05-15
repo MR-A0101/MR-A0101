@@ -52,7 +52,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 ### Connect with me 📲:
 
 [<img align="left" alt="MR-A0101.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][A#]
+[<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/neon-icons@v3/icons/youtube.svg" />][A#]
 [<img align="left" alt="MR-A0101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MR-A0101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][A#]
