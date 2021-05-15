@@ -54,7 +54,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 <br>
 
 
-<summary> ### My GitHub Stats 📈: </summary>
+### My GitHub Stats 📈:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MR-A0101&show_icons=true&theme=gotham" alt="MR-A0101" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-A0101&theme=gotham" alt="MR-A0101" />
