@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm [MR-A][website] 
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm [MR-A][website]
 
 I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 🤖 and as an innovator and a avid reader, I like to explore new avenues. I have a vast range of interest including Cryptography, Steganography and Adobe PS, PR and Æ. Not an expert at AI/ML, but love 💚 playing with Tensorflow, PyTorch, and OpenCV. Overall i am pushing myself to learn more about full stack development and writing smart algorithms.
 
@@ -10,7 +10,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 
 
-## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST 
+## I'm a DEVELOPER | PROGRAMMER | ENTREPRENEUR | AI/ML ENTHUSIAST
  <img align="right" alt="GIF" src="https://github.com/MR-A0101/MR-A0101/blob/main/code.gif?raw=true" width="460" height="320" />
 
 - 🔭 What's New: I just launched my new Password Manage for Linux users 🔐
@@ -28,17 +28,23 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26.5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
+<img align="left" alt="CSS3" width="33px" src="https://cdn.worldvectorlogo.com/logos/css3.svg" />
 <img align="left" alt="JavaScript" width="19px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Kali Linux" width="35px" src="https://seeklogo.com/images/K/kali-linux-logo-0EB0B3A81B-seeklogo.com.png" />
+<img align="left" alt="Kali Linux" width="37" src="https://www.kali.org/images/kali-dragon-icon.svg" />
 <img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="C++" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+
+<br><br>
+
+<img align="left" alt="Ruby" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="MySQL" width="26px" src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" />
+<img align="left" alt="Replit" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />
+<img align="left" alt="Parrot Sec OS" width="25" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/MR-A0101/MR-A0101.github.io/blob/main/images/github.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Angular" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
 <br>
 
@@ -72,4 +78,3 @@ Developed with ❤️&🧠 by MR-A
 [linkedin]: https://www.linkedin.com/in/MR-A
 [A#]: http:/197.0.0.1
 [A@]: https://github.com/MR-A0101
-
