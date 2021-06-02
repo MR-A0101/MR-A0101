@@ -23,8 +23,11 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 
 <br>
 
-
-### Languages and Tools 🛠:
+<p align="right">
+ 
+<details>
+  <summary><b>🛠 &nbsp;Languages and Tools: </b></summary>
+  </br>
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26.5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,26 +48,32 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Angular" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</details>
 
 <br>
 <br>
 
-### Connect with me 📲:
+<details>
+  <summary><b>📲 &nbsp;Connect with me: </b></summary>
+  </br>
 
 [<img align="left" alt="MR-A0101.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="MR-A0101 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][A#]
 [<img align="left" alt="MR-A0101 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="MR-A0101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MR-A0101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][A#]
+</details>
 
 <br>
 
-
-### My GitHub Stats 📈:
+<details>
+  <summary><b>⚙️ &nbsp;GitHub Statistics</b></summary>
+  </br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MR-A0101&show_icons=true&theme=gotham" alt="MR-A0101" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-A0101&theme=gotham" alt="MR-A0101" />
-
+</details>
+ 
 
  <br>
 
