@@ -26,7 +26,7 @@ I see the world 🌎 as no one else, I don't accept the old 🧓 I create a new 
 <p align="right">
  
 <details>
-  <summary><b>🛠 &nbsp;Languages and Tools: </b></summary>
+  <summary><b>🛠 &nbsp;Languages, Tools and Frameworks: </b></summary>
   </br>
 
 <img align="left" alt="Atom Text Editor" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
